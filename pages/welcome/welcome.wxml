@@ -1,0 +1,7 @@
+<view class="container">
+  <image class="avatar" src="../../images/music.png"></image>
+  <text>管你是小清新\n是重口味</text>
+  <view class="start-container" bindtap="onStartTap">
+    <text class="start">我Play</text>
+  </view>
+</view>
